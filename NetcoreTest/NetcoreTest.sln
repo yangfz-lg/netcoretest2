@@ -7,9 +7,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "依赖注入", "依赖注�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "异步编程", "异步编程", "{6936E596-974D-48B4-9499-44AE5FCAE858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo1基本使用", "demo1基本使用\demo1基本使用.csproj", "{FB160D07-CE25-498E-938E-0E53286D6379}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webAPI", "webAPI", "{8C461788-D868-422D-AB29-B45EA0616788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDemo1", "WebApiDemo1\WebApiDemo1.csproj", "{BFE1AC4C-DD04-4A15-AB39-3E4890157309}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB160D07-CE25-498E-938E-0E53286D6379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB160D07-CE25-498E-938E-0E53286D6379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB160D07-CE25-498E-938E-0E53286D6379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB160D07-CE25-498E-938E-0E53286D6379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE1AC4C-DD04-4A15-AB39-3E4890157309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE1AC4C-DD04-4A15-AB39-3E4890157309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE1AC4C-DD04-4A15-AB39-3E4890157309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE1AC4C-DD04-4A15-AB39-3E4890157309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB160D07-CE25-498E-938E-0E53286D6379} = {6936E596-974D-48B4-9499-44AE5FCAE858}
+		{BFE1AC4C-DD04-4A15-AB39-3E4890157309} = {8C461788-D868-422D-AB29-B45EA0616788}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BD055152-63B7-44E0-B8C3-A23ACE6F0BEE}
