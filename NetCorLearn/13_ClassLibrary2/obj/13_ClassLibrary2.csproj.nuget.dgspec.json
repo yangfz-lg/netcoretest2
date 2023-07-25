@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj": {}
+    "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj": {}
   },
   "projects": {
-    "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj": {
+    "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj",
+        "projectUniqueName": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj",
         "projectName": "13_ClassLibrary2",
-        "projectPath": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj",
+        "projectPath": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\13_ClassLibrary2\\13_ClassLibrary2.csproj",
         "packagesPath": "C:\\Users\\Y\\.nuget\\packages\\",
-        "outputPath": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\13_ClassLibrary2\\obj\\",
+        "outputPath": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\13_ClassLibrary2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
