@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_ClassLibrary2", "13_Clas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14_缓存", "14_缓存", "{7BB1B458-A489-400B-87AB-A17D7F4B146F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_cache01", "14_cacle01\14_cache01.csproj", "{2B9D1B03-664B-4F68-8CE4-1C09E10A3EA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_01cache", "14_cacle01\14_01cache.csproj", "{2B9D1B03-664B-4F68-8CE4-1C09E10A3EA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15_异常筛选器FILTER", "15_异常筛选器FILTER", "{A6E81C36-27A4-4411-9785-E58052F2E6BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj": {}
+    "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj": {}
   },
   "projects": {
-    "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj": {
+    "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj",
+        "projectUniqueName": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj",
         "projectName": "WebAPIDemo1",
-        "projectPath": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj",
+        "projectPath": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj",
         "packagesPath": "C:\\Users\\Y\\.nuget\\packages\\",
-        "outputPath": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\WebAPIDemo1\\obj\\",
+        "outputPath": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\WebAPIDemo1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
