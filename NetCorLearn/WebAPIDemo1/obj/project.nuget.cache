@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "boXi5TYxQTBux1hV8+HPti/NQjiEsc/HVbIASeCKhyadT6ctGnObsMP/8do7P6CG6BSZJTzpDQdpKGdnNin/Zw==",
+  "dgSpecHash": "VApk8aN+gbE6pJnpxNMc8tNvHiWGg+uKsKBhSlQlxHxxK5B1+rJYK0/Z2/twcjK2NiYCciCFg8yh7Dosbo+Pkg==",
   "success": true,
-  "projectFilePath": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj",
+  "projectFilePath": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\WebAPIDemo1\\WebAPIDemo1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Y\\.nuget\\packages\\asmresolver\\4.11.2\\asmresolver.4.11.2.nupkg.sha512",
     "C:\\Users\\Y\\.nuget\\packages\\asmresolver.dotnet\\4.11.2\\asmresolver.dotnet.4.11.2.nupkg.sha512",

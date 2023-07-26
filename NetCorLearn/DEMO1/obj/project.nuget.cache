@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KwZ0IlCoJG9/hrVDIdtHHEHHd10a+mdAcDKJlu9VxL/m5qaKyeDb0Xfhn2vr4vwfPiCDpshrg9ZOSQIctjdsA==",
+  "dgSpecHash": "A+sjePmWrJQIS1SDQt7Nv/2mIkCncqiP3m4HKJlN5aup1FnOHd9Cn27e5iQhT6gtKE/rrssj5m+X5J+j6vfHjA==",
   "success": true,
-  "projectFilePath": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\DEMO1\\12DEMO1.csproj",
+  "projectFilePath": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\DEMO1\\12DEMO1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Y\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Y\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

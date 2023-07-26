@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WKKdOtql+D78MHI4HBKDSCo3LSdbNEZhJv7S58piOgv9P/wJwZMmCIdfF+87B9ASImFpy125D2cKSkuDhrNRRA==",
+  "dgSpecHash": "TOkd0zdpLnNwYVEh6CgePFr8fMAvzX+9VNyP2ghu3qcyhIXuKIqh7wHrXtEwAihcUNkEaAro75zg+bLPDxwh1w==",
   "success": true,
-  "projectFilePath": "E:\\xx\\test\\c#\\NetCoretest2\\NetCorLearn\\13_ClassLibrary1\\13_ClassLibrary1.csproj",
+  "projectFilePath": "E:\\XX\\test\\c#\\netcoretest2\\NetCorLearn\\13_ClassLibrary1\\13_ClassLibrary1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Y\\.nuget\\packages\\asmresolver\\4.11.2\\asmresolver.4.11.2.nupkg.sha512",
     "C:\\Users\\Y\\.nuget\\packages\\asmresolver.dotnet\\4.11.2\\asmresolver.dotnet.4.11.2.nupkg.sha512",
